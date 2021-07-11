@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeBel42!
-- :cheer: I'm finally out of high school!
+- :hugs: I'm finally out of high school!
 - 📫 How to reach me: mail -> lefevre.martin@outlook.com Discord -> BeBel42#4113
 - :two_hearts: I like back end programming, such as C, C++, glsl and maths!
 - :horse: I like ponies, but I'm still young so I guess it's alright.
