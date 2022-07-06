@@ -4,6 +4,7 @@ You're here because you want to know more about me? Well read on!
 - ❤️ I love math and programming (the fun part of those, not the boring math or whatever we learn at school).
 - :flags: I can speak fluently in French and in English, though I am slowly learning Spanish ^^'
 - :computer: I can write code in many languages, such as C, C++, Bash, GLSL, etc.
+- :penguin: I love using Linux operating systems, it's just so fun! (I use Arch btw).
 - 🐉 I like dragons and ponies, they're just so cute!
 - :link: You want to contact me?  
     > My email: lefevre.martin@outlook.com;  
