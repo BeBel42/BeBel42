@@ -1,4 +1,4 @@
-##👋 Hi, I’m @BeBel42!
+## 👋 Hi, I’m @BeBel42!
 You're here because you want to know more about me? Well read on!
 - :school: My name is Martin Lefèvre. I am a student in computer sience at the 19 Coding School (https://launch.s19.be/). This school is part of the 42 network.
 - ❤️ I love math and programming (the fun part of those, not the boring math or whatever we learn at school).
