@@ -9,6 +9,6 @@
 - 🐧 I love using Linux operating systems, it's just so fun! (I use Arch btw).
 - 🐉 I like dragons and ponies, they're just so cute!
 - 🔗 You want to contact me?
-    > My Discord: BeBel42#4113;
-    > [[lefevre.martin@outlook.com][My Email]];
-    > [[https://www.linkedin.com/in/martin-lef%C3%A8vre-09103b23b/][My Linkedin]].
+    + My Discord: BeBel42#4113;
+    + [[lefevre.martin@outlook.com][My Email]];
+    + [[https://www.linkedin.com/in/martin-lef%C3%A8vre-09103b23b/][My Linkedin]].
