@@ -1,5 +1,5 @@
 #+BEGIN_CENTER
-✨ ~ My Gitlab About Page ~ ✨
+✨ ~ About Me ~ ✨
 #+END_CENTER
 **** You're here because you want to know more about me? Well read on!
 - 🏫 I am a student in computer sience at the [[(https://launch.s19.be/)][19 Coding School]]. This school is part of the 42 network.
