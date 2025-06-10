@@ -4,7 +4,7 @@
 **** You're here because you want to know more about me? Well read on!
 - 🏫 I am a student in computer sience at the [[(https://launch.s19.be/)][19 Coding School]]. This school is part of the 42 network.
 - ❤ I love math and programming, but only the fun part of it.
-- 🏳️ I can speak fluently in French and in English, though I am slowly learning Spanish ^^'
+- 🏳️ I can speak fluently in French and in English, and I have a good grasp of Spanish
 - 🖥 I can write code in many languages, such as C++, Bash, Python, Javascript, etc.
 - 🐧 I love using Linux operating systems, it's just so fun! (I use Arch btw).
 - 🔗 You want to contact me?
